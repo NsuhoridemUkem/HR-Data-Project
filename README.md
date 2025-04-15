@@ -21,8 +21,9 @@ Here’s the updated **README.md** with a clean and professional structure—no 
    - [Attributes Included](#attributes-included)  
    - [Code Features](#code-features)  
 6. [Tools & Technologies](#tools--technologies)  
-7. [Outcomes](#outcomes)  
-8. [Contact](#contact)  
+7. [Outcomes](#outcomes)
+8. [Key Insights from the Dashboard](#key-insights-from-the-dashboard)
+9. [Contact](#contact)  
 
 ---
 
@@ -127,7 +128,20 @@ Synthetic data was generated using Python with ChatGPT assistance to simulate a 
 
 - A reusable framework for generating large, realistic HR datasets  
 - A dynamic, user-friendly dashboard suited for HR executives  
-- Insights that support employee retention, performance management, and pay equity analysis  
+- Insights that support employee retention, performance management, and pay equity analysis
+  
+---
+
+## Key Insights from the Dashboard
+
+- Hiring Trends Over Time: Hiring peaked in 2021 before slowing in 2023, suggesting market or budget-related adjustments.
+- Departmental Distribution: Engineering and Customer Support lead in headcount, revealing focus areas.
+- Branch vs HQ Staffing: New York HQ employs over 60% of staff; branches add diversity across the U.S.
+- Workforce Demographics: Balanced gender ratio; most employees are aged 30–45 with a Bachelor's degree.
+- Performance vs Education: Master's degree holders often perform better in managerial roles.
+- Salary Insights: Salaries rise with education, though gender-based discrepancies exist in some departments.
+- Employee Attrition: 11% attrition rate; Customer Support and Sales have higher churn, often within 2 years.
+
 ---
 
 ## Full Dashboard
