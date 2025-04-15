@@ -1,8 +1,6 @@
 # HR-Data-Project
 A comprehensive HR analytics dashboard project leveraging synthetic data and Tableau to visualize workforce trends, demographics, and salary insights for strategic decision-making.
 
-Here’s the updated **README.md** with a clean and professional structure—no emojis, and a full table of contents included.
-
 ---
 
 # HR Dashboard – Data Analysis & Visualization Project
